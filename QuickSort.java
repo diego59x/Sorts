@@ -1,4 +1,10 @@
-
+/**
+* tomado de https://github.com/victorolave/QuickSort_Java/blob/master/src/quicksort/QuickSort.java
+* Autor: Victor Olave 14/04/19
+* Diego Alvarez 19498 
+*
+*
+*/
 
 
 import java.io.BufferedReader;

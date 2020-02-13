@@ -1,5 +1,10 @@
-// tomado de https://stackoverflow.com/questions/13727030/mergesort-in-java
-package merge;
+
+/**
+* tomado de https://stackoverflow.com/questions/13727030/mergesort-in-java
+* Diego Alvarez 19498 
+*
+*
+*/
 import java.util.*;
 import java.io.*;
 public class Merge {

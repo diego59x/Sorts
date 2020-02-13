@@ -1,6 +1,7 @@
 /*Tomado de https://foro.elhacker.net/java/algoritmo_radix_sort_en_java-t276529.0.html
  * Autor : leyer 2/12/2009
- * 
+ * Diego Alvarez 19498
+ *
  */
 
 

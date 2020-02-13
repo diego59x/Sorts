@@ -1,4 +1,9 @@
 
+/** tomado de https://www.javatpoint.com/selection-sort-in-java
+ * Autor : leyer 2/12/2009
+ * Diego Alvarez 19498
+ *
+ */
 
 import java.util.*;
 import java.io.*;
